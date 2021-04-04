@@ -1,0 +1,46 @@
+
+body{
+  background-color:skyblue;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+}
+.pic1{
+  border-style: solid;
+
+  width:35em ;
+  
+}
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 0;
+    width: 300px;
+    background-color: #f1f1f1;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color:skyblue;
+    color:red;
+  }
+  .number5{
+    max-width: 10px;
+  }
+  .border{
+    border-style: solid;
+  }
+  @media only screen and (min-width: 768px)
+  @media only screen and (max-width: 600px) 
+  @media only screen and (min-width: 1200px)
